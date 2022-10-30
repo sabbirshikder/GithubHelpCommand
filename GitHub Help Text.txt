@@ -1,0 +1,28 @@
+git init //If No git add 
+
+git remote add origin https://github.com/sabbirshikder/Transport.git
+
+git add ./ // If first time add Git 
+
+git status //If we want to see git status 
+
+
+
+git config --global user.email "you@example.com" //If not log in git account
+git config --global user.name "sabbirshikder" //Git user name 
+
+git commit -a -m "inisial commit" //Inisial Commit means comments name 
+
+git push -u origin master //Push Data in master branch
+
+
+// git clone https://github.com/sabbirshikder/Transport.git
+
+
+git add ./
+
+git commit -a -m "Booking Popup Change"
+
+git push
+
+
