@@ -28,3 +28,6 @@ git commit -a -m "commit name"
 git push
 
 
+//For git pull
+git reset --hard origin/master
+git pull origin master
