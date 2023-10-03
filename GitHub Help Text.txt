@@ -31,3 +31,5 @@ git push
 //For git pull
 git reset --hard origin/master
 git pull origin master
+//fatal: detected dubious ownership in repository at
+git config --global --add safe.directory '*'
